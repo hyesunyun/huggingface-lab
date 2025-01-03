@@ -1,0 +1,4 @@
+notebook
+transformers[torch]
+datasets
+torch

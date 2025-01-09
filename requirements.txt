@@ -1,4 +1,7 @@
 notebook
 transformers[torch]
 datasets
+evaluate
+accelerate
+rouge_score
 torch

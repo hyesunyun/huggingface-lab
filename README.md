@@ -1,6 +1,6 @@
 # huggingface-lab
 
-Lab for CS6983/CS4973 Research in Human-Centered NLP.
+Lab for CS6983/CS4973 Research in Human-Centered NLP (Northeastern University).
 
 You can run these notebooks on [Google Colab](https://colab.research.google.com/github/hyesunyun/huggingface-lab/blob/main/huggingface_inference.ipynb). You won't need to create a virtual environment for Google Colab as it comes with most of the packages we need installed and we can install the HuggingFace libraries directly on Colab.
 
